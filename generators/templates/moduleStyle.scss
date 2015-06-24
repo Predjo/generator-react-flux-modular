@@ -1,0 +1,15 @@
+/* This is the file that combines imports from all the components in a module  */
+
+/****** Components ******/
+
+/*===== yeoman hook =====*/
+/* NB! The above line is required for our yeoman generator and should not be changed.*/
+
+.<%= className %> {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}

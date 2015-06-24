@@ -1,0 +1,17 @@
+{
+  "name": "generator-arazoo",
+  "version": "0.1.0",
+  "description": "React + Flux generator",
+  "files": [
+    "app",
+    "router"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "esprima-fb": "^15001.1.0-dev-harmony-fb",
+    "lodash": "^3.9.3",
+    "yeoman-generator": "^0.20.1"
+  }
+}

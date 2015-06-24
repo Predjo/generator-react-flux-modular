@@ -1,0 +1,12 @@
+/* This is the file that combines imports from all the plugins & modules  */
+
+/****** Plugins ******/
+
+@import "../../node_modules/bootstrap-sass/assets/stylesheets/_bootstrap.scss";
+@import "../../node_modules/compass-mixins/lib/compass/_css3.scss";
+@import "../../node_modules/font-awesome/scss/font-awesome.scss";
+
+/****** Modules ******/
+
+/*===== yeoman hook =====*/
+/* NB! The above line is required for our yeoman generator and should not be changed.*/
